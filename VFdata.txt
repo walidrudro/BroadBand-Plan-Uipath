@@ -1,0 +1,1 @@
+<html><head><style>tr,td,th{border: 5px solid #08b8f1}</style></head><body><table><thead><tr><th>Price</th><th>Data GBs</th><th>Connection</th></tr></thead><tr><td>$93.00</td><td>Unlimited</td><td>Fibre, VDSL or ADSL</td></tr><tr><td>$73.00</td><td>300</td><td>Superfast 4G Wireless</td></tr><tr><td>$63.00</td><td>120</td><td>Superfast 4G Wireless</td></tr></tr></table>
